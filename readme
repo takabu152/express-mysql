@@ -1,0 +1,9 @@
+・expressのインストール
+・ejs（Embedded JavaScript)のインストール
+　　Embedded(埋め込む）
+　埋め込む場合は、<%%>、<%=%>で囲む。
+　表示したくない場合は、<%%>
+　表示させたい場合は、<%=%>
+
+・mysqlのインストール
+　node.jsでmysqlへ接続する際に利用する
